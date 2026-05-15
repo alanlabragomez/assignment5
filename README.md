@@ -1,6 +1,7 @@
 # Fancify My Text
 
-CSC193A Assignment 5 - Fun with JavaScript
+CSC193A Assignment 5 - Fun with JavaScript 
+
 Alan Labra Gomez
 
 Files:
